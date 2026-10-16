@@ -1,0 +1,37 @@
+echo "CmpQuiz is a Fun game. Sign in or login? (signup / signin)"
+
+when typed "login"
+
+echo "enter your email here."
+when typed "example@example.com"
+
+echo "wrong. Forget email? Type signup."
+
+when typed "signup"
+
+echo "What is your Username?"
+
+when typed "choose, idk"
+
+echo "Player1118"
+echo "how old are you?"
+
+when typed "4"
+echo "good choice."
+
+
+when typed "5"
+echo "good choice."
+
+
+when typed "6"
+echo "good choice."
+
+when typed "7"
+echo "good choice."
+
+when typed "8"
+echo "good choice."
+
+when typed "9"
+echo "good choice."
